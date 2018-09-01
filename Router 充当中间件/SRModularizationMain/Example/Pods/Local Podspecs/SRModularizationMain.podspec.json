@@ -1,0 +1,27 @@
+{
+  "name": "SRModularizationMain",
+  "version": "0.1.0",
+  "summary": "A short description of SRModularizationMain.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/guowilling/SRModularizationMain",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "guowilling": "guowilling90@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/guowilling/SRModularizationMain.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SRModularizationMain/Classes/**/*",
+  "dependencies": {
+    "MGJRouter": [
+
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+framework module Pods_SRModularizationMain_Tests {
+  umbrella header "Pods-SRModularizationMain_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

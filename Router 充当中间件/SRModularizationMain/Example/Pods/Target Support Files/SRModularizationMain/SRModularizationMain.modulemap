@@ -1,0 +1,6 @@
+framework module SRModularizationMain {
+  umbrella header "SRModularizationMain-umbrella.h"
+
+  export *
+  module * { export * }
+}

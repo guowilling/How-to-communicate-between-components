@@ -1,0 +1,16 @@
+PODS:
+  - SRModularizationMain (0.1.0)
+
+DEPENDENCIES:
+  - SRModularizationMain (from `../`)
+
+EXTERNAL SOURCES:
+  SRModularizationMain:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SRModularizationMain: 114f9caecfdbf1ed20034eb35b3b5d81769f0a16
+
+PODFILE CHECKSUM: 3d35a324d983c4b9ec4bb552cb3e625ffd9a2456
+
+COCOAPODS: 1.5.3

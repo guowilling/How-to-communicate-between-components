@@ -1,0 +1,23 @@
+PODS:
+  - MGJRouter (0.10.0)
+  - SRModularizationMain (0.1.0):
+    - MGJRouter
+
+DEPENDENCIES:
+  - SRModularizationMain (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - MGJRouter
+
+EXTERNAL SOURCES:
+  SRModularizationMain:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MGJRouter: 15d94541eb2cc81eff7d577337288feb7ae9575f
+  SRModularizationMain: d194962fe9fc4f3708b41dbc6a941f1d20a785a7
+
+PODFILE CHECKSUM: 3d35a324d983c4b9ec4bb552cb3e625ffd9a2456
+
+COCOAPODS: 1.5.3

@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SRModularizationMain_Example' do
+  pod 'SRModularizationMain', :path => '../'
+
+  target 'SRModularizationMain_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
