@@ -19,6 +19,8 @@
     // Do any additional setup after loading the view.
     
     self.view.backgroundColor = [UIColor randomColor];
+    
+    NSArray *languages = @[@"PHP", @"Objective-C", nil, @"Swift", @"Python"];
 }
 
 - (void)didReceiveMemoryWarning {
